@@ -9,7 +9,7 @@ Introduction :
 
 
 COPYRIGHT
- (C) 2014 uTrade Solutions Pvt Ltd. All Rights reserved.
+  (C) 2014 uTrade Solutions Pvt Ltd. All Rights reserved.
 
 Language Supported : C++
 
@@ -17,37 +17,37 @@ Directory structure:
   CMakeLists.txt
   config.h  
   config.h.in
-  dispatcher
-      CMakeLists.txt  
-      dispatcherMain.cpp
-      subscriptionServer.cpp
-      subscriptionServMsg.h
-      commands.h      
-      subscriptionServer.h
-      symbolIdParser.cpp
-      defines.cpp
-      fdDispatcher.cpp
-      mdStorage.cpp
-      symbolIdFdMap.cpp
-      symbolIdParser.h
-      defines.h
-      fdDispatcher.h
-      mdStorage.h
-      subscriptionServMsg.cpp
-      symbolIdFdMap.h
-      threadPool.h
-  shared
-      CMakeLists.txt
-      commands.cpp
-      commands.h
-      common.h
-      defines.cpp
-      defines.h
-      response.h
-      symbolStaticData.cpp
-      symbolStaticData.h
+  dispatcher/
+    CMakeLists.txt  
+    dispatcherMain.cpp
+    subscriptionServer.cpp
+    subscriptionServMsg.h
+    commands.h      
+    subscriptionServer.h
+    symbolIdParser.cpp
+    defines.cpp
+    fdDispatcher.cpp
+    mdStorage.cpp
+    symbolIdFdMap.cpp
+    symbolIdParser.h
+    defines.h
+    fdDispatcher.h
+    mdStorage.h
+    subscriptionServMsg.cpp
+    symbolIdFdMap.h
+    threadPool.h
+  shared/
+    CMakeLists.txt
+    commands.cpp
+    commands.h
+    common.h
+    defines.cpp
+    defines.h
+    response.h
+    symbolStaticData.cpp
+    symbolStaticData.h
 
-  
+
 
 Dependencies:
   cmake       (http://www.cmake.org/)
