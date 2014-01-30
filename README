@@ -1,17 +1,18 @@
-muTrade Market Data Disptacher
+muTrade Market Data Dispatcher
 
-Version 0.0.1 
+Version 0.0.1
 
 URL:- http://www.utradesolutions.com/
 
 Introduction : 
-  It is subscription based market data event provider. Developer need to subsribe the symbol from our subscription server. Once symbol is subscribed user will get the event as snapshot for every tick update of respective symbol.
+  It is subscription based market data event provider. Developer need to subscribe the symbol from our subscription server. Once symbol is subscribed user will get the event as snapshot for every tick update of respective symbol.
 
 
 COPYRIGHT
   (C) 2014 uTrade Solutions Pvt Ltd. All Rights reserved.
 
-Language Supported : C++
+Language Supported : C++ 
+
 
 Directory structure:
   CMakeLists.txt
@@ -50,7 +51,6 @@ Directory structure:
 
 
 Dependencies:
-  cmake       (http://www.cmake.org/)
-  muTrade Backend Server. (http://www.utradesolutions.com/)
-  boost       (http://www.boost.org/)
-  libevent      (http://libevent.org/)
+  cmake       	(http://www.cmake.org/)
+  boost       	(http://www.boost.org/)
+  libevent      	(http://libevent.org/)

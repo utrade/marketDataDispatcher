@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['mutrade_20market_20data_20disptacher_20documentation',['muTrade Market Data Disptacher documentation',['../index.html',1,'']]],
+  ['mutrade_20market_20data_20dispatcher_20documentation',['muTrade Market Data Dispatcher documentation',['../index.html',1,'']]],
   ['main',['main',['../dispatcherMain_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'dispatcherMain.cpp']]],
   ['market_5fname_5fsize',['MARKET_NAME_SIZE',['../defines_8h.html#aa40ffcd212341458a559fa73b40fd870',1,'defines.h']]],
   ['market_5fpicture_5fbroadcast_5fflag_5fsize',['MARKET_PICTURE_BROADCAST_FLAG_SIZE',['../defines_8h.html#a0ad1e29298ad963011363e6382bae790',1,'defines.h']]],
