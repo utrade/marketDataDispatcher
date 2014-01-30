@@ -1,0 +1,6 @@
+<map id="MarketData::FdDispatcher::dispatchFd" name="MarketData::FdDispatcher::dispatchFd">
+<area shape="rect" id="node3" href="$classMarketData_1_1SymbolIdFdMap.html#ad73fc7ccbc618c345a4e438ab2d48ab5" title="SymbolIdFdMap is is a Singleton class, which will have only one instance. This instance can be access..." alt="" coords="455,5,647,51"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1SymbolIdFdMap.html#a76237392dfffe136fc3699d6460bbc38" title="Get Fds associated to symbol id." alt="" coords="455,103,647,150"/>
+<area shape="rect" id="node7" href="$classMarketData_1_1ThreadPool.html#a16afb81920c40f22b4fbcfaed9af2933" title="MarketData::ThreadPool\l::post" alt="" coords="236,103,399,150"/>
+<area shape="rect" id="node9" href="$classMarketData_1_1FdDispatcher.html#a759f155b19bb023d6351a13ea4e75792" title="Write event on fd Function responsible for writing the event with symbol id on socket/fd." alt="" coords="229,34,405,81"/>
+</map>

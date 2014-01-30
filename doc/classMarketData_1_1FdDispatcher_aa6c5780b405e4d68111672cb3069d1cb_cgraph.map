@@ -1,0 +1,31 @@
+<map id="MarketData::FdDispatcher::fifoReadMcl" name="MarketData::FdDispatcher::fifoReadMcl">
+<area shape="rect" id="node3" href="$classCMD_1_1MDQuote.html#adec0614e5b8166433dde6a8f4e22d0c5" title="CMD::MDQuote::getSymbolId" alt="" coords="231,5,428,35"/>
+<area shape="rect" id="node5" href="$classCMD_1_1MDQuote.html#aa65206abb0a19d2dde225b5a1f5fab19" title="CMD::MDQuote::dump" alt="" coords="500,31,657,60"/>
+<area shape="rect" id="node7" href="$classMarketData_1_1MDStorage.html#a7bb3501309d1b4cefc2676d941ef56cb" title="MDStorage is is a Singleton class, which will have only one instance. This instance can be accessed u..." alt="" coords="497,323,660,370"/>
+<area shape="rect" id="node9" href="$classMarketData_1_1MDStorage.html#aaa34b6ecffc4ad2f1dc9c3f0f03e60a2" title="Function to save market quote for every symbol." alt="" coords="248,109,411,155"/>
+<area shape="rect" id="node12" href="$classMarketData_1_1FdDispatcher.html#a0dec0825db3d6b43720078d0099d0d07" title="Feed Dispatcher Function Function Called whene there is an event for market data feed." alt="" coords="241,178,417,225"/>
+<area shape="rect" id="node24" href="$classMarketData_1_1FdDispatcher.html#a12da3e2bf8b6acf6237bfccb1a10a050" title="Feed Dispatcher Function Function Called whene there is an event for market data feed." alt="" coords="236,825,423,871"/>
+<area shape="rect" id="node14" href="$classMarketData_1_1SymbolIdFdMap.html#ad73fc7ccbc618c345a4e438ab2d48ab5" title="SymbolIdFdMap is is a Singleton class, which will have only one instance. This instance can be access..." alt="" coords="729,263,921,310"/>
+<area shape="rect" id="node16" href="$classMarketData_1_1SymbolIdFdMap.html#a76237392dfffe136fc3699d6460bbc38" title="Get Fds associated to symbol id." alt="" coords="729,169,921,215"/>
+<area shape="rect" id="node18" href="$classMarketData_1_1ThreadPool.html#a16afb81920c40f22b4fbcfaed9af2933" title="MarketData::ThreadPool\l::post" alt="" coords="497,83,660,130"/>
+<area shape="rect" id="node20" href="$classMarketData_1_1FdDispatcher.html#a759f155b19bb023d6351a13ea4e75792" title="Write event on fd Function responsible for writing the event with symbol id on socket/fd." alt="" coords="491,203,667,250"/>
+<area shape="rect" id="node27" href="$classMarketData_1_1SymbolIdFdMap.html#ae6a4aab6b65a5c2e8f506e639fdeba43" title="MarketData::SymbolIdFdMap\l::getFdForSymbolConsolidated" alt="" coords="477,859,680,906"/>
+<area shape="rect" id="node29" href="$classMarketData_1_1SymbolIdFdMap.html#a4e2eb89d5fd886525cd66c2c3ca8d6a6" title="MarketData::SymbolIdFdMap\l::getSymbolForFdConsolidated" alt="" coords="477,929,680,975"/>
+<area shape="rect" id="node31" href="$classCMD_1_1MDQuoteConsolidated.html#aecfb1b6780c15f195c5110d150dd6921" title="CMD::MDQuoteConsolidated\l::setNumberOfSymbols" alt="" coords="483,998,675,1045"/>
+<area shape="rect" id="node34" href="$classMarketData_1_1MDStorage.html#a44a20aa6687a8a42fb53b7461a16f323" title="Function to get market quote for given symbol." alt="" coords="484,1068,673,1097"/>
+<area shape="rect" id="node36" href="$classCMD_1_1MDQuoteConsolidated.html#a0120267ebe971cf54f4f170514330584" title="CMD::MDQuoteConsolidated\l::setSymbolId" alt="" coords="483,1121,675,1167"/>
+<area shape="rect" id="node38" href="$classCMD_1_1MDQuoteConsolidated.html#a1ddd9f89a985fd68abeb4f0480491846" title="CMD::MDQuoteConsolidated\l::setLastTradePrice" alt="" coords="483,1190,675,1237"/>
+<area shape="rect" id="node40" href="$classCMD_1_1MDQuoteConsolidated.html#ae4765e33348d4c9a27269cfd1a89e4c0" title="CMD::MDQuoteConsolidated\l::setLastTradeQty" alt="" coords="483,1259,675,1306"/>
+<area shape="rect" id="node42" href="$classCMD_1_1MDQuoteConsolidated.html#a8e15ec5a304f61126f6aa48a63c31feb" title="CMD::MDQuoteConsolidated\l::setOpenPrice" alt="" coords="483,1329,675,1375"/>
+<area shape="rect" id="node44" href="$classCMD_1_1MDQuoteConsolidated.html#afe5f58261a4f12ccf888d6a826ac34a8" title="CMD::MDQuoteConsolidated\l::setClosePrice" alt="" coords="483,1398,675,1445"/>
+<area shape="rect" id="node46" href="$classCMD_1_1MDQuoteConsolidated.html#ab76f76c932b669fc8ca9ab6ac9eb3e17" title="CMD::MDQuoteConsolidated\l::setHighPrice" alt="" coords="483,393,675,439"/>
+<area shape="rect" id="node48" href="$classCMD_1_1MDQuoteConsolidated.html#a9a2688b263594c2ccc092dd00918b009" title="CMD::MDQuoteConsolidated\l::setLowPrice" alt="" coords="483,462,675,509"/>
+<area shape="rect" id="node50" href="$classCMD_1_1MDQuoteConsolidated.html#a086a16664ee9c76b30668348604f4dc2" title="CMD::MDQuoteConsolidated\l::setDepth" alt="" coords="483,531,675,578"/>
+<area shape="rect" id="node52" href="$classMarketData_1_1FdDispatcher.html#ac441df0de8454f88fd5ec6a02cac9b8c" title="MarketData::FdDispatcher\l::getConsolidatedDepthBid" alt="" coords="489,651,668,698"/>
+<area shape="rect" id="node58" href="$classMarketData_1_1FdDispatcher.html#a1aff56607178be636a0bb95bf643fbd6" title="MarketData::FdDispatcher\l::getConsolidatedDepthAsk" alt="" coords="488,790,669,837"/>
+<area shape="rect" id="node64" href="$classCMD_1_1MDQuoteConsolidated.html#ab9462d55e599ca17d8ff339de2029005" title="CMD::MDQuoteConsolidated\l::serialize" alt="" coords="483,721,675,767"/>
+<area shape="rect" id="node54" href="$classCMD_1_1MDQuoteConsolidated.html#a7c7906d850eeadc4e78031d1580e2fc3" title="CMD::MDQuoteConsolidated\l::setBidPrice" alt="" coords="729,617,921,663"/>
+<area shape="rect" id="node56" href="$classCMD_1_1MDQuoteConsolidated.html#a56061b6c053da36068a265f9eb9a1bb5" title="CMD::MDQuoteConsolidated\l::setBidQty" alt="" coords="729,686,921,733"/>
+<area shape="rect" id="node60" href="$classCMD_1_1MDQuoteConsolidated.html#a9ded5b67b27c86e8495a17fe53529875" title="CMD::MDQuoteConsolidated\l::setAskPrice" alt="" coords="729,773,921,819"/>
+<area shape="rect" id="node62" href="$classCMD_1_1MDQuoteConsolidated.html#ab3ff853b70193f6cd7ce46be052ff79d" title="CMD::MDQuoteConsolidated\l::setAskQty" alt="" coords="729,842,921,889"/>
+</map>

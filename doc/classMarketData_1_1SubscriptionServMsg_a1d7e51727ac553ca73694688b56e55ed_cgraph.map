@@ -1,0 +1,10 @@
+<map id="MarketData::SubscriptionServMsg::SubscriptionServMsg" name="MarketData::SubscriptionServMsg::SubscriptionServMsg">
+<area shape="rect" id="node3" href="$classMarketData_1_1SubscriptionServMsg.html#aa85743fbe0b06ddffdbbf53ba3a009b0" title="To check whether the request is to subscribe or unsusbscribe." alt="" coords="272,5,467,51"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1SubscriptionServMsg.html#a3d07de629af33936eaa812a0359708e9" title="MarketData::Subscription\lServMsg::setUnlinkFifo" alt="" coords="284,74,455,121"/>
+<area shape="rect" id="node7" href="$classMarketData_1_1SubscriptionServMsg.html#a2a702a15f29a929145548dc954c8769f" title="MarketData::Subscription\lServMsg::setSymbolCount" alt="" coords="280,143,459,190"/>
+<area shape="rect" id="node9" href="$classMarketData_1_1SubscriptionServMsg.html#a2d7460fe3bb3721a00aad9e3568e481d" title="MarketData::Subscription\lServMsg::getSymbolCount" alt="" coords="280,213,459,259"/>
+<area shape="rect" id="node11" href="$classMarketData_1_1SubscriptionServMsg.html#a12911348c60b33b475221fdc22528e48" title="MarketData::Subscription\lServMsg::setSymbolId" alt="" coords="284,282,455,329"/>
+<area shape="rect" id="node13" href="$classMarketData_1_1SubscriptionServMsg.html#a10e5dc5b6f30ab7046d9eaa715c54a37" title="MarketData::Subscription\lServMsg::setFeedType" alt="" coords="284,351,455,398"/>
+<area shape="rect" id="node15" href="$classMarketData_1_1SubscriptionServMsg.html#a4a7b1903f08396b74fd57db3fe6c6591" title="MarketData::Subscription\lServMsg::setIsRunningLocally" alt="" coords="269,421,469,467"/>
+<area shape="rect" id="node17" href="$classMarketData_1_1SubscriptionServMsg.html#a08bfecba6f6a68c4f509935c979a9f4f" title="MarketData::Subscription\lServMsg::setIsConsolidatedFeed" alt="" coords="261,490,477,537"/>
+</map>

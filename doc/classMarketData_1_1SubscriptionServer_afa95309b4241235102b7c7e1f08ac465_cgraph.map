@@ -1,0 +1,18 @@
+<map id="MarketData::SubscriptionServer::readHandle" name="MarketData::SubscriptionServer::readHandle">
+<area shape="rect" id="node3" href="$classMarketData_1_1SymbolIdFdMap.html#ad73fc7ccbc618c345a4e438ab2d48ab5" title="SymbolIdFdMap is is a Singleton class, which will have only one instance. This instance can be access..." alt="" coords="225,5,417,51"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1SymbolIdFdMap.html#a51e27ee3eee21bd9adec11b223ac534b" title="MarketData::SymbolIdFdMap\l::deleteAllSymbolOfFd" alt="" coords="225,143,417,190"/>
+<area shape="rect" id="node9" href="$classMarketData_1_1SubscriptionServer.html#a7df24e27eb978dbe9097edd9d3c50f84" title="Free allocated state memory." alt="" coords="236,213,407,259"/>
+<area shape="rect" id="node11" href="$classMarketData_1_1SubscriptionServMsg.html#a0cc5a7dd957cc5200c1c837a5bf6fd71" title="Dump data." alt="" coords="236,434,407,481"/>
+<area shape="rect" id="node13" href="$classMarketData_1_1SubscriptionServMsg.html#ab6804e04793a8ecfd53e45e70115fd4e" title="To check whether the request is to subscribe or unsusbscribe." alt="" coords="481,261,668,307"/>
+<area shape="rect" id="node15" href="$classMarketData_1_1SubscriptionServMsg.html#ac94c23367f19f9d5ebb8ceb488ff167d" title="MarketData::Subscription\lServMsg::isUnlinkFifo" alt="" coords="489,330,660,377"/>
+<area shape="rect" id="node17" href="$classMarketData_1_1SubscriptionServMsg.html#a2d7460fe3bb3721a00aad9e3568e481d" title="MarketData::Subscription\lServMsg::getSymbolCount" alt="" coords="485,399,664,446"/>
+<area shape="rect" id="node19" href="$classMarketData_1_1SubscriptionServMsg.html#afc03d94c1b4d15fe21d0e1903ede525b" title="MarketData::Subscription\lServMsg::getFdName" alt="" coords="489,469,660,515"/>
+<area shape="rect" id="node21" href="$classMarketData_1_1SubscriptionServMsg.html#a5a5447e1da638b4beee658bae90f1ffb" title="MarketData::Subscription\lServMsg::getIsRunningLocally" alt="" coords="475,538,675,585"/>
+<area shape="rect" id="node23" href="$classMarketData_1_1SubscriptionServMsg.html#a04f096f6ee38dbe7cfb02167e36069c5" title="MarketData::Subscription\lServMsg::getIsConsolidatedFeed" alt="" coords="467,607,683,654"/>
+<area shape="rect" id="node30" href="$classMarketData_1_1SymbolIdFdMap.html#a5bb2eb233b2dce766eaa62d462014325" title="Add member in the subscribed list." alt="" coords="225,655,417,702"/>
+<area shape="rect" id="node32" href="$classMarketData_1_1SubscriptionServMsg.html#acb480d804787dfdb53b65f1eafa6e733" title="MarketData::Subscription\lServMsg::getSymbolId" alt="" coords="236,725,407,771"/>
+<area shape="rect" id="node34" href="$classMarketData_1_1SymbolIdFdMap.html#a0e30921ac50738f4905e57bbd5a73239" title="Add member in the subscribed list." alt="" coords="225,794,417,841"/>
+<area shape="rect" id="node36" href="$classMarketData_1_1SubscriptionServMsg.html#a87ba6d4eed488e645afcdeefd5051a62" title="MarketData::Subscription\lServMsg::getFeedType" alt="" coords="236,863,407,910"/>
+<area shape="rect" id="node38" href="$classMarketData_1_1SymbolIdFdMap.html#a69cca946b5bed469d8061a13fad83708" title="Delete member from subscribed list." alt="" coords="225,74,417,121"/>
+<area shape="rect" id="node7" href="$namespaceMarketData.html#aab1bb35c17f75cf5ac08a811510fc150" title="MarketData::findIndex" alt="" coords="500,117,649,147"/>
+</map>

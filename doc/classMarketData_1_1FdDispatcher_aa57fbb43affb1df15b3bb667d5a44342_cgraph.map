@@ -1,0 +1,6 @@
+<map id="MarketData::FdDispatcher::operator()" name="MarketData::FdDispatcher::operator()">
+<area shape="rect" id="node3" href="$classMarketData_1_1FdDispatcher.html#a327abfbab8a3ecfa94af41d2da576f76" title="Function to open fifo if dispather and client both are on the same system." alt="" coords="229,5,405,51"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1FdDispatcher.html#aba10da9a040400a1e0395d0123414da8" title="Function to create fifo if dispather and client both are on the same system." alt="" coords="229,74,405,121"/>
+<area shape="rect" id="node7" href="$classMarketData_1_1FdDispatcher.html#ab6cb4812454be4cafb21c36bf72615a6" title="Invoke Fifo Read Tbt Since libevent is a C library, it doesn&#39;t directly provide a mechanism to associ..." alt="" coords="229,143,405,190"/>
+<area shape="rect" id="node9" href="$classMarketData_1_1FdDispatcher.html#a78867a38d81b5847197f370cb31950c8" title="Invoke Fifo Read Since libevent is a C library, it doesn&#39;t directly provide a mechanism to associate ..." alt="" coords="229,213,405,259"/>
+</map>

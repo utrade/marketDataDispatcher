@@ -1,0 +1,6 @@
+<map id="MarketData::SymbolIdParser::initializeSymbolIdNameMap" name="MarketData::SymbolIdParser::initializeSymbolIdNameMap">
+<area shape="rect" id="node3" href="$classMarketData_1_1FdDispatcher.html#a09a0b8d99832d922015d10f5e99bc654" title="Internally used function to check whether to use MCL dispatcher or not. Value is updated from setting..." alt="" coords="253,5,429,51"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1SymbolIdParser.html#aa05ac2d34062bdd6b1fae20fc66da111" title="MarketData::SymbolIdParser\l::getMclSymbolsFromFile" alt="" coords="247,74,436,121"/>
+<area shape="rect" id="node7" href="$classMarketData_1_1SymbolIdFdMap.html#ad73fc7ccbc618c345a4e438ab2d48ab5" title="SymbolIdFdMap is is a Singleton class, which will have only one instance. This instance can be access..." alt="" coords="487,39,679,86"/>
+<area shape="rect" id="node9" href="$classMarketData_1_1SymbolIdFdMap.html#a05732f358503217d4e24b1a317b2c778" title="Inizlize symbol id map. This function will be called when tbt will start." alt="" coords="487,109,679,155"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MarketData::SymbolIdParser::getMclSymbolsFromFile" name="MarketData::SymbolIdParser::getMclSymbolsFromFile">
+<area shape="rect" id="node3" href="$classMarketData_1_1SymbolIdFdMap.html#ad73fc7ccbc618c345a4e438ab2d48ab5" title="SymbolIdFdMap is is a Singleton class, which will have only one instance. This instance can be access..." alt="" coords="247,5,439,51"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1SymbolIdFdMap.html#a05732f358503217d4e24b1a317b2c778" title="Inizlize symbol id map. This function will be called when tbt will start." alt="" coords="247,74,439,121"/>
+</map>

@@ -1,0 +1,14 @@
+#ifndef MUTRADEAPI_CONFIG_H
+#define MUTRADEAPI_CONFIG_H
+
+#define VERSION_MAJOR @dispatch_VERSION_MAJOR@
+#define VERSION_MINOR @dispatch_VERSION_MINOR@
+#define VERSION_PATCH @dispatch_VERSION_PATCH@
+
+#define REVISION_NUMBER "@dispatch_WC_REVISION@"
+
+#define PROJECT_NAME "@CMAKE_PROJECT_NAME@"
+
+#define VERSION_STRING "@dispatch_VERSION_STRING@ (Build @muTradeApi_WC_REVISION@)"
+
+#endif

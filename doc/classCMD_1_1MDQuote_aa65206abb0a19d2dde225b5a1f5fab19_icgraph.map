@@ -1,0 +1,4 @@
+<map id="CMD::MDQuote::dump" name="CMD::MDQuote::dump">
+<area shape="rect" id="node3" href="$classMarketData_1_1FdDispatcher.html#aa6c5780b405e4d68111672cb3069d1cb" title="Fifo Read Mcl Function is called to reed the feed when there is an event for mcl feed." alt="" coords="424,5,600,51"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1MDStorage.html#aaa34b6ecffc4ad2f1dc9c3f0f03e60a2" title="Function to save market quote for every symbol." alt="" coords="212,34,375,81"/>
+</map>

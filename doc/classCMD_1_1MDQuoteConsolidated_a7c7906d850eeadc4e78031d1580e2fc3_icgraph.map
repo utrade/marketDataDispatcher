@@ -1,0 +1,5 @@
+<map id="CMD::MDQuoteConsolidated::setBidPrice" name="CMD::MDQuoteConsolidated::setBidPrice">
+<area shape="rect" id="node3" href="$classMarketData_1_1FdDispatcher.html#ac441df0de8454f88fd5ec6a02cac9b8c" title="MarketData::FdDispatcher\l::getConsolidatedDepthBid" alt="" coords="248,5,427,51"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1FdDispatcher.html#a12da3e2bf8b6acf6237bfccb1a10a050" title="Feed Dispatcher Function Function Called whene there is an event for market data feed." alt="" coords="475,5,661,51"/>
+<area shape="rect" id="node7" href="$classMarketData_1_1FdDispatcher.html#aa6c5780b405e4d68111672cb3069d1cb" title="Fifo Read Mcl Function is called to reed the feed when there is an event for mcl feed." alt="" coords="709,5,885,51"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MarketData::SubscriptionServer::acceptHandle" name="MarketData::SubscriptionServer::acceptHandle">
+<area shape="rect" id="node3" href="$classMarketData_1_1SubscriptionServer.html#a0a968d7809deb4e74c772d3711ee7c9c" title="Allocate FdState." alt="" coords="224,5,395,51"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1SubscriptionServer.html#a9c512600470738944f62a6627a7fe4ff" title="Invoke Read Handler Since libevent is a C library, it doesn&#39;t directly provide a mechanism to associa..." alt="" coords="444,5,625,51"/>
+</map>

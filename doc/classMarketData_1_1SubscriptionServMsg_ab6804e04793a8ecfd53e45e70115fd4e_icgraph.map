@@ -1,0 +1,5 @@
+<map id="MarketData::SubscriptionServMsg::isSubscriptionReq" name="MarketData::SubscriptionServMsg::isSubscriptionReq">
+<area shape="rect" id="node3" href="$classMarketData_1_1SubscriptionServer.html#afa95309b4241235102b7c7e1f08ac465" title="Read Handle." alt="" coords="461,30,632,76"/>
+<area shape="rect" id="node5" href="$classMarketData_1_1SubscriptionServMsg.html#ad3dccf92396505a0c27ddd26d0e75e67" title="Serialize data." alt="" coords="243,24,413,71"/>
+<area shape="rect" id="node7" href="$classMarketData_1_1SubscriptionServMsg.html#a0cc5a7dd957cc5200c1c837a5bf6fd71" title="Dump data." alt="" coords="243,94,413,140"/>
+</map>
